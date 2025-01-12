@@ -1,0 +1,7 @@
+C:\Users\Sean\Documents\GitHub\Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe.config
+C:\Users\Sean\Documents\GitHub\Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssignment\bin\Debug\MethodClassAssignment.exe
+C:\Users\Sean\Documents\GitHub\Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssignment\bin\Debug\MethodClassAssignment.pdb
+C:\Users\Sean\Documents\GitHub\Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssignment\obj\Debug\MethodClassAssignment.csproj.AssemblyReference.cache
+C:\Users\Sean\Documents\GitHub\Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssignment\obj\Debug\MethodClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\GitHub\Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssignment\obj\Debug\MethodClassAssignment.exe
+C:\Users\Sean\Documents\GitHub\Tech-Academy-Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClassAssignment\obj\Debug\MethodClassAssignment.pdb
